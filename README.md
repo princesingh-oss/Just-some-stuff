@@ -1,2 +1,2 @@
 # dwmnew
-file:///home/prince/Pictures/Screenshots/Screenshot_20260912_105943.png
+  Just some basic config file 
