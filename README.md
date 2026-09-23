@@ -1,2 +1,2 @@
-# dwmnew
-  Just some basic config file 
+This better
+
